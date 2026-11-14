@@ -1,0 +1,3 @@
+# Code runs in WSL: keep Unix line endings; the Windows launcher keeps CRLF.
+* text=auto eol=lf
+*.bat text eol=crlf

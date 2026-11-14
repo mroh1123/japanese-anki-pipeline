@@ -1,0 +1,11 @@
+{
+  "deck": "コンビニ人間",
+  "notetype": "Basic",
+  "front_field": "Front",
+  "back_field": "Back",
+  "tags": [],
+  "ankiconnect_url": "http://127.0.0.1:8766",
+  "anki_profile_dir": "/mnt/c/Users/MRoh/AppData/Roaming/Anki2/User 1",
+  "downloads_dir": "/mnt/c/Users/MRoh/Downloads",
+  "sheet_glob": "ChatGPT Image*.png"
+}

@@ -1,0 +1,17 @@
+# Python environment and caches (reinstallable, several GB)
+venv/
+__pycache__/
+*.pyc
+
+# Personal study data: card crops, per-run batches, ChatGPT sheet images
+cards/
+cards.zip
+batches/
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Claude Code: share only the /sentences command, not local settings
+.claude/*
+!.claude/commands/

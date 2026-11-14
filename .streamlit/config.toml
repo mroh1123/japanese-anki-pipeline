@@ -1,0 +1,11 @@
+[server]
+# Only reachable from this PC, never from the network.
+address = "127.0.0.1"
+port = 8501
+headless = true
+# The auto-reload watcher walks every loaded module; on `transformers` (used by
+# manga-ocr) that imports hundreds of unrelated submodules and freezes the app.
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false

@@ -1,0 +1,11 @@
+Create ONE image: a sheet of {n} vocabulary flashcards arranged in a grid of {grid} on a plain light background, with clear gaps between the cards.
+
+Each card is a white rounded rectangle with a thin dark border. At the TOP of each card, print the Japanese word large and centered, in a clean black font, on a plain white band. Below the band, an anime-style illustration that shows the word's meaning.
+
+Use exactly these words, in this order (left to right, top to bottom):
+{words}
+
+Rules:
+- Copy each word exactly as written, character for character. No furigana, readings, translations, numbers or captions.
+- Do not put any other text anywhere, including inside the illustrations (no signs, papers, labels or speech bubbles with writing).
+- Keep the word band plain white so the word is easy to read.
